@@ -140,7 +140,7 @@ function TextEditor() {
   
   useEffect(() => {
     // Use the state in a useEffect hook
-    // if(state===)
+    // if(state===cdc)
     console.log('State changed in Youssef:', state);
 
  
