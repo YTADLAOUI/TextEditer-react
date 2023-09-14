@@ -11,7 +11,7 @@ function App() {
       <AppProvider>
         <NavBars/>
         <div style={{ display: 'flex' }}>
-          <div style={{ width: '200px' }}>
+          <div style={{ width: '300px' }}>
             <SideBar/>
           </div>
           <div style={{ flex: '1' }}>
